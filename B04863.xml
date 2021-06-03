@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offered to the Parliament, for the supplying of the King with present money without interest, (whereby he will be better inabled to carry on a vigorous war against France): for the great ease of the subject: for the advance and encouragement of trade: and, for the raising of the price of land.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04863</idno><idno type="EEBO-CITATION">52528876</idno>
+  <idno type="VID">178858</idno>
+  <idno type="EEBO-PROQUEST">2240875198</idno>
+  
+            <idno type="STC">Wing P3761A</idno>
+            <idno type="STC">ESTC R182197</idno>
+            <idno type="OCLC">52528876</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178858)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2773:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offered to the Parliament, for the supplying of the King with present money without interest, (whereby he will be better inabled to carry on a vigorous war against France): for the great ease of the subject: for the advance and encouragement of trade: and, for the raising of the price of land.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land value taxation --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  England --  History --  1688-1815 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178858:1"/>
+            <head>PROPOSALS Humbly offered to the Parliament, <hi>For the Supplying of the King with Present Money without Interest,</hi> (whereby he will be better inabled to carry on a Vigorous War against <hi>France</hi>):
+<list>
+                  <item>
+                     <hi>For the great Ease of the Subject:</hi>
+                  </item>
+                  <item>
+                     <hi>For the Advance and Encouragement of Trade:</hi> And,</item>
+                  <item>
+                     <hi>For the Raising of the Price of Land.</hi>
+                  </item>
+               </list>
+            </head>
+            <p>
+               <hi>IT is humbly proposed,</hi> That a certain Fund be settled, by Act of Parliament, by way of Land-Tax, payable by equal Proportions, for four Years, (as suppose three Millions of Money to be raised after the Rate of seven hundred and fifty thousand Pounds <hi>per annum:</hi>) That there be an Office erected, called, <hi>the King's Bank</hi> (or by what other Name or Title soever the Parliament shall think fit to settle the same) in the City of <hi>London:</hi> That Commissioners be appointed by Act of Par<g ref="char:EOLhyphen"/>liament, and their Salary likewise settled, that shall have Power to grant out Bills numbred (that cannot be counterfeited) to such a Value and Number as shall not ex<g ref="char:EOLhyphen"/>ceed the said Fund to be raised: That such Bills shall always be accounted paid, and taken as present Money: That if any question the Bills as shall come to hand, they may have Recourse to the said Office, where they shall be satisfied, paying no Fees.</p>
+            <p>That a fourth Part of these Bills shall be paid off every Year, either by Indorsment, or by taking out new Bills for a fourth Part less, which shall be thought best: So that the whole will be paid off in four Years.</p>
+            <p>The Reasonableness of the Proposal appears in the Particulars following:
+<list>
+                  <item>1. Hereby the King is immediately supplied with so much present Money as the Fund amounts to, without paying Interest, which will be a vast Ease to the Subject.</item>
+                  <item>2. The Ease of the Subjects is very evident, in that they will have four Years time to pay that in, which otherwise must be paid in one.</item>
+                  <item>3. By this Means Trade will be advanced, by making Money more plenty, and consequently the Interest lower.</item>
+                  <item>4. The lowring the Interest of Money advances the Price of Land: as suppose Money at 6 <hi>l. per Cent. per annum,</hi> Land at twenty Years Purchase, lowring Interest to 5, makes Land proportionably to be at 25 Years Purchase: and if at 4 <hi>l. per Cent. per annum,</hi> to be at 30 Years Purchase.</item>
+               </list>
+            </p>
+            <p>And whereas it is said by some that these Proposals come too late, for that four Shil<g ref="char:EOLhyphen"/>lings in the Pound is already voted upon Land for this present Year, whereof seven hundred thousand Pounds are already borrowed, or voted to be borrowed upon the Credit of the said Fund:</p>
+            <p>It is humbly proposed, That instead of a borrowing Clause the said Office may be erected and impowered to grant out Bills as aforesaid; by which Means Their Maje<g ref="char:EOLhyphen"/>sties will be immediately supplied with the Remainder of the said 4 <hi>s. per l.</hi> which beside the Charge of the said Office, cannot be less than 200000 <hi>l.</hi> Advantage to the Nation.</p>
+            <p>And if Ways and Means may not be speedily found out for the Supplying Their Majesties with the Money already Voted as Absolutely Necessary for this Present Year 94; It is further Proposed, That 1 <hi>s. per l. per Annum</hi> more be granted to Their Majesties upon Land, to continue for 4 Years; and that a 5th Part of the Whole for this Present Year 94, be charg'd upon the Tenant.</p>
+            <p>For that no Persons inhabiting in any City, Borough or Town Corporate, nor any Tenants Renting Land under 50 <hi>l. per Annum,</hi> but what are infinitely more indebted to the Goodness of Their Present Majesties, in so generously parting with their Reve<g ref="char:EOLhyphen"/>nue of <hi>Hearth-Money,</hi> only proposed by them for the ease of the Subject.</p>
+            <p>And as for those that rent Land above 50 <hi>l. per Annum,</hi> they are generally Men of Stocks. So that this Charge of 1 <hi>s. per l. per Annum</hi> for one Year, (considering the great Advantage and Profit they have made for these 2 Years) can be no great Burden.</p>
+            <p>By this Means their Majesties will be immediately supplyed with 4 Millions of present Money for this present Year without Interest, except what is already borrow<g ref="char:EOLhyphen"/>ed upon the said Fund of the 4 <hi>s. per l. per Annum.</hi>
+            </p>
+            <p>And if there should be occasion for extraordinary Supplies for the Service of the Year 95; If 1 <hi>s.</hi> 6 <hi>d. per Ann.</hi> for 4 Years be laid upon Land, it will raise 3 Millions more of present Money without Interest; which will then make 2 <hi>s.</hi> 6 <hi>d.</hi> in the Pound <hi>per Annum</hi> upon Land.</p>
+            <p>And if there should be occasion for the like Supplies for the Service of the Year 96; If 1 <hi>s.</hi> 6 <hi>d.</hi> in the Pound <hi>per Ann.</hi> for 4 Years more be laid upon Land, it will raise 3 Millions more of present Money without Interest, as above; which in the Whole, will make but 4 <hi>s.</hi> in the Pound <hi>per Annum</hi> upon Land.</p>
+            <p>By which time the Anticipation that is upon the Excise and Customs, will be off; and they will provide the like Sums for the Year 97 and 98. So that in the Year 98, Land will pay but 3 <hi>s.</hi> in the Pound <hi>per Annum;</hi> and in the Year 99, but 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>So that the Continuing 3 <hi>s. per l. per Annum</hi> upon Land, together with the Funds of Excise and Customs, will raise 3 Millions <hi>per Annum</hi> present Money, <hi>ad Infinitum.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:178858:2"/>
+            <p>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Offered to the PARLIAMENT For supplying the King with present Money without In<g ref="char:EOLhyphen"/>terest.</p>
+            <p>
+               <add>By issuing out Bills and making a Kings Bank</add>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
